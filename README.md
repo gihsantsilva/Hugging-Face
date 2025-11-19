@@ -158,3 +158,5 @@ Você pode utilizá-lo, estudar, modificar e expandir livremente.
 
 * **Giovanna Silva** – Desenvolvimento do código, experimentação e apresentação.
   GitHub: [https://github.com/gihsantsilva](https://github.com/gihsantsilva)
+* **Enrico Genaro** – Desenvolvimento do código, experimentação e apresentação.
+  GitHub: [https://github.com/enricobeiramar](https://github.com/enricobeiramar)
